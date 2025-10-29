@@ -1,3 +1,4 @@
+def calcul_string(numbers: str) -> int:
+    if numbers == "":
+        return 0
 
-TestAdd_EmptyString_ReturnZero()
-    assert Add("") == 0
